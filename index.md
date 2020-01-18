@@ -1,6 +1,6 @@
 ## Welcome to Sourav Banerjee Pages
 
-<img src="banner.png" alt="hi" class="inline"/>
+<img src="Banner.png" alt="hi" class="inline"/>
 
 You can use the [editor on GitHub](https://github.com/Souravban/image-classification-decoded/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
