@@ -1,4 +1,4 @@
-## Welcome to Sourav Banerjee Pages
+## Image Classification Decoded: A step-by-step guide for Newbies
 
 <img src="Banner.png" alt="hi" class="inline"/>
 
