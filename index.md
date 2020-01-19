@@ -1,4 +1,5 @@
 ## Image Classification Decoded: A step-by-step guide for Newbies
+###_Image Classification on the RVL-CDIP Dataset using VGG16 Networ_
 
 <img src="Banner.png" alt="hi" class="inline"/>
 
